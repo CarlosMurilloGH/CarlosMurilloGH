@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Carlos Murillo, I'm a FullStack Developer (MERN Stack)
-
+I have been working as a FullStack Developer for since 2021 and I have been working with Wordpress and SEO for about 5 years.
 ## Skills
 ## Frontend
  - HTML, CSS, JS
