@@ -54,3 +54,6 @@ I have been working as a FullStack Developer for since 2021 and I have been work
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmurillogh)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarlosMurilloGH&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
