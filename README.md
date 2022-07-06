@@ -2,7 +2,7 @@
 # I'm Carlos Murillo, I'm a FullStack Developer (MERN Stack)
 I have been working as a FullStack Developer for since 2021 and I have been working with Wordpress and SEO for about 5 years.
 ## Skills
-## Frontend
+### Frontend
  - HTML, CSS, JS
  - Reactjs
  - React-Native
@@ -12,13 +12,13 @@ I have been working as a FullStack Developer for since 2021 and I have been work
  - Tailwind
  - Styled components
 
-## Backend
+### Backend
  - PHP
  - Nodejs
  - Firebase
  - Express
 
-## Platforms
+### Platforms
  - Wordpress
  - Plesk
  - Cpanel
@@ -28,11 +28,16 @@ I have been working as a FullStack Developer for since 2021 and I have been work
  - MongoDB
  - Mailchimp
  
-## Tools
+### Tools
  - Figma
  - Google Analytics
  - Premiere Pro
  - After Effects
+
+## Contact Me
+[Email]<carlosmurilloortecho@gmail.com>.
+[Portfolio](https://portfolio-cm-2022.netlify.app).
+[Linkedin](https://www.linkedin.com/in/carlos-murillo-ortecho/).
 
 
 
