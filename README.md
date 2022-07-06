@@ -35,8 +35,10 @@ I have been working as a FullStack Developer for since 2021 and I have been work
  - After Effects
 
 ## Contact Me
-[Email]<carlosmurilloortecho@gmail.com>.
+[Email](carlosmurilloortecho@gmail.com).
+
 [Portfolio](https://portfolio-cm-2022.netlify.app).
+
 [Linkedin](https://www.linkedin.com/in/carlos-murillo-ortecho/).
 
 
